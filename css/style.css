@@ -1,0 +1,17 @@
+.cubeContainer{
+    display: flex;
+}
+
+.cube {
+	margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    font: 90px/300px Arial;
+    text-align: center;
+}
+
+.button {
+    margin: 20px 0 20px;
+}
